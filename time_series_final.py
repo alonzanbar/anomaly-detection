@@ -41,35 +41,8 @@ class timeseries():
  def generateCorrelationMatrix(self,data_time_window):
   #data time window is a numpy array with number of rows =7 and number of columns = len(vertex_set)
   #cor_matrix=np.corrcoef(data_time_window,rowvar=0)
-  size=data_time_window.shape[1] 
-  cor_matrix=np.zeros(size * size).reshape(size,size)
-  mean_vector=[]
-  std_vector=[]
-  data=data_time_window
   cov_matrix=np.cov(data_time_window,rowvar=0)
-  #mean =np.mean(cov_matrix)
-  #sd=np.std(cov_matrix)
-  #cov_matrix = (cov_matrix - mean)/sd
 
-  #finding mean and standard deviation of each column vector
-  for col in xrange(data_time_window.shape[1]):
-    mean_vector.append(np.mean(data[:,col]))
-    std_vector.append(np.std(data[:,col]))
-  #calculating correlation coefficient for each pair of column vectors
-  for X1 in xrange(data.shape[1]):
-   for X2 in xrange(data.shape[1]):
-    if std_vector[X1]==0: #if the standard deviation is zero, then just put zero for all X2 corresponding to row X1
-     cor_matrix[X1,:]=0
-     break
-    elif std_vector[X2]==0:
-     cor_matrix[X1,X2]=0
-    else:
-     #X1_mu1_diff = X1-mean_vector[X1]
-     #X2_mu2_diff = X2-mean_vector[X2]
-     #covariance_X1X2 = np.mean(X1_mu1_diff.flatten().dot(X2_mu2_diff.flatten()))
-     #cor_coeff= covariance_X1X2/float(std_vector[X1] * std_vector[X2])
-     #cor_matrix[X1,X2]=cor_coeff
-     cor_matrix[X1,X2]=cov_matrix[X1,X2]/float(std_vector[X1] * std_vector[X2])
   return cov_matrix
 
  #given a covariance matrix for a particular time window this function returns the principal eigen vector  

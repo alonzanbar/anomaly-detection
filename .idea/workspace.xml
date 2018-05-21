@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f8fe44d-3879-41db-a228-d138ad2eb38e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/0_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/100_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/101_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/102_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/103_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/104_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/105_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/106_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/107_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/108_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/109_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/10_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/110_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/111_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/112_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/113_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/114_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/115_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/116_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/117_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/118_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/119_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/11_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/120_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/121_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/122_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/123_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/124_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/125_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/126_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/127_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/128_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/129_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/12_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/130_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/131_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/132_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/133_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/134_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/135_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/136_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/137_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/138_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/139_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/13_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/140_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/141_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/142_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/143_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/144_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/145_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/146_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/147_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/148_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/149_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/14_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/150_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/151_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/152_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/153_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/154_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/155_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/156_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/157_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/158_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/159_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/15_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/160_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/161_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/162_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/163_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/164_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/165_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/166_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/167_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/168_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/169_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/16_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/170_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/171_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/172_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/173_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/174_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/175_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/176_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/177_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/178_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/179_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/17_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/180_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/181_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/182_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/183_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/184_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/185_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/186_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/187_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/188_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/189_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/18_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/190_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/191_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/192_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/193_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/194_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/195_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/196_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/197_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/198_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/199_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/19_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/1_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/200_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/201_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/202_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/203_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/204_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/205_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/206_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/207_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/208_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/209_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/20_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/210_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/211_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/212_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/213_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/214_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/215_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/216_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/217_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/218_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/219_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/21_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/220_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/221_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/222_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/223_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/224_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/225_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/226_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/227_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/228_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/229_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/22_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/230_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/231_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/232_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/233_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/234_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/235_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/236_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/237_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/238_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/239_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/23_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/240_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/241_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/242_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/243_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/244_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/245_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/246_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/247_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/248_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/249_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/24_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/250_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/251_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/252_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/253_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/254_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/255_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/256_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/257_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/258_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/259_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/25_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/260_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/261_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/262_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/263_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/264_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/265_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/266_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/267_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/268_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/269_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/26_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/270_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/271_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/272_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/273_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/274_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/275_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/276_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/277_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/278_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/279_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/27_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/280_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/281_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/282_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/283_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/284_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/285_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/286_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/287_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/288_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/289_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/28_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/290_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/291_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/292_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/293_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/294_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/295_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/296_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/297_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/298_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/299_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/29_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/2_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/300_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/301_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/302_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/303_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/304_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/305_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/306_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/307_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/308_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/309_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/30_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/310_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/311_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/312_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/313_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/314_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/315_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/316_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/317_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/318_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/319_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/31_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/320_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/321_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/322_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/323_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/324_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/325_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/326_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/327_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/328_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/329_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/32_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/330_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/331_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/332_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/333_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/334_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/335_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/336_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/337_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/338_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/339_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/33_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/340_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/341_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/342_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/343_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/344_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/345_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/346_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/347_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/348_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/349_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/34_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/350_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/351_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/352_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/353_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/354_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/355_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/356_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/357_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/358_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/359_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/35_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/360_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/361_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/362_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/363_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/364_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/365_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/366_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/367_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/368_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/369_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/36_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/370_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/371_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/372_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/373_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/374_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/375_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/376_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/377_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/378_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/379_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/37_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/380_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/381_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/382_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/383_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/384_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/385_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/386_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/387_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/388_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/389_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/38_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/390_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/391_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/392_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/393_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/394_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/395_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/396_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/397_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/398_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/399_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/39_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/3_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/400_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/401_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/402_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/403_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/404_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/405_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/406_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/407_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/408_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/409_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/40_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/410_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/411_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/412_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/413_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/414_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/415_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/416_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/417_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/418_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/419_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/41_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/420_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/421_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/422_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/423_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/424_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/425_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/426_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/427_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/428_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/429_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/42_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/430_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/431_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/432_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/433_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/434_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/435_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/436_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/437_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/438_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/439_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/43_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/440_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/441_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/442_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/443_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/444_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/445_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/446_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/447_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/448_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/449_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/44_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/450_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/451_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/452_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/453_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/454_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/455_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/456_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/457_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/458_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/459_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/45_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/460_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/461_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/462_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/463_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/464_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/465_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/466_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/467_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/468_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/469_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/46_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/470_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/471_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/472_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/473_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/474_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/475_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/476_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/477_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/478_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/479_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/47_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/480_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/481_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/482_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/483_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/484_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/485_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/486_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/487_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/488_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/489_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/48_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/490_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/491_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/492_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/493_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/494_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/495_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/496_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/497_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/498_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/499_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/49_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/4_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/500_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/501_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/502_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/503_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/504_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/505_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/506_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/507_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/508_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/509_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/50_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/510_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/511_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/512_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/513_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/514_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/515_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/516_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/517_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/518_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/519_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/51_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/520_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/521_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/522_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/523_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/524_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/525_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/526_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/527_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/528_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/529_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/52_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/530_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/531_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/532_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/533_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/534_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/535_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/536_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/537_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/538_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/539_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/53_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/540_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/541_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/542_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/543_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/544_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/545_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/546_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/547_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/548_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/549_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/54_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/550_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/551_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/552_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/553_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/554_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/555_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/556_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/557_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/558_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/559_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/55_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/560_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/561_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/562_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/563_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/564_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/565_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/566_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/567_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/568_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/569_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/56_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/570_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/571_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/572_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/573_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/574_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/575_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/576_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/577_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/578_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/579_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/57_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/580_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/581_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/582_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/583_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/584_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/585_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/586_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/587_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/588_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/589_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/58_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/590_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/591_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/592_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/593_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/594_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/595_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/596_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/597_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/598_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/599_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/59_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/5_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/600_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/601_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/602_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/603_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/604_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/605_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/606_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/607_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/608_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/609_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/60_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/610_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/611_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/612_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/613_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/614_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/615_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/616_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/617_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/618_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/619_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/61_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/620_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/621_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/622_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/623_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/624_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/625_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/626_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/627_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/628_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/629_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/62_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/630_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/631_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/632_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/633_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/634_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/635_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/636_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/637_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/638_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/639_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/63_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/640_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/641_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/642_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/643_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/644_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/645_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/646_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/647_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/648_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/649_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/64_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/650_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/651_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/652_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/653_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/654_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/655_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/656_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/657_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/658_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/659_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/65_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/660_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/661_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/662_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/663_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/664_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/665_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/666_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/667_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/668_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/669_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/66_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/670_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/671_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/672_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/673_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/674_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/675_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/676_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/677_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/678_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/679_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/67_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/680_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/681_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/682_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/683_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/684_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/685_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/686_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/687_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/688_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/689_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/68_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/690_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/691_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/692_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/693_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/694_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/695_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/696_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/697_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/698_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/699_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/69_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/6_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/700_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/701_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/702_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/703_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/704_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/705_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/706_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/707_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/708_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/709_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/70_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/710_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/711_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/712_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/713_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/714_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/715_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/716_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/717_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/718_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/719_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/71_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/720_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/721_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/722_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/723_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/724_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/725_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/726_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/727_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/728_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/729_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/72_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/730_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/731_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/732_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/733_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/734_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/735_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/736_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/737_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/738_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/739_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/73_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/740_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/741_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/742_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/743_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/744_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/745_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/746_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/747_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/748_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/749_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/74_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/750_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/751_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/752_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/753_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/754_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/755_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/756_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/757_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/758_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/759_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/75_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/760_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/761_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/762_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/763_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/764_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/765_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/766_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/767_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/768_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/769_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/76_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/770_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/771_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/772_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/77_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/78_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/79_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/7_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/80_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/81_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/82_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/83_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/84_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/85_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/86_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/87_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/88_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/89_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/8_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/90_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/91_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/92_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/93_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/94_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/95_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/96_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/97_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/98_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/99_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/enron/9_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/0_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/100_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/101_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/102_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/103_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/104_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/105_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/10_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/11_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/12_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/13_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/14_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/15_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/16_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/17_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/18_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/19_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/1_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/20_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/21_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/22_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/23_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/24_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/25_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/26_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/27_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/28_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/29_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/2_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/30_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/31_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/32_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/33_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/34_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/35_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/36_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/37_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/38_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/39_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/3_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/40_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/41_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/42_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/43_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/44_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/45_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/46_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/47_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/48_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/49_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/4_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/50_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/51_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/52_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/53_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/54_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/55_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/56_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/57_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/58_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/59_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/5_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/60_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/61_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/62_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/63_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/64_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/65_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/66_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/67_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/68_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/69_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/6_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/70_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/71_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/72_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/73_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/74_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/75_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/76_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/77_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/78_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/79_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/7_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/80_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/81_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/82_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/83_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/84_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/85_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/86_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/87_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/88_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/89_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/8_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/90_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/91_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/92_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/93_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/94_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/95_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/96_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/97_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/98_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/99_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_converted/9_enron_by_day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_raw/all_comms.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/reality_raw/reality-mining-calls.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/reality_to_enron_converter.py" />
+      <change beforePath="$PROJECT_DIR$/enron-graph-data-set.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/time_series_final.py" afterPath="$PROJECT_DIR$/time_series_final.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="reality_to_enron_converter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reality_to_enron_converter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="format_convertor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/format_convertor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="65" column="29" lean-forward="false" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="time_series_final.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/time_series_final.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-67">
+              <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0_enron_by_day.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/reality_converted/0_enron_by_day.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0_enron_by_day.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/enron/0_enron_by_day.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all_comms.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/reality_raw/all_comms.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample_plot.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample_plot.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reality-mining-calls.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/reality_raw/reality-mining-calls.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>format</find>
+      <find>writeToDisk</find>
+      <find>\t</find>
+      <find>\n</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/reality_to_enron_converter.py" />
+        <option value="$PROJECT_DIR$/time_series_final.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-4" />
+    <option name="width" value="798" />
+    <option name="height" value="596" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="anomaly-detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anomaly-detection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anomaly-detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anomaly-detection" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anomaly-detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anomaly-detection" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="reality_raw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anomaly-detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="anomaly-detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 2.7 (ass4) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="anomaly-detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 2.7 (ass4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anomaly-detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 2.7 (ass4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anomaly-detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 2.7 (ass4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anomaly-detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 2.7 (ass4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anomaly-detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 2.7 (ass4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anomaly-detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 2.7 (ass4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="formats" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../time-series" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/reality_raw" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/reality_raw" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.time_series_final">
+    <configuration name="format_convertor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="anomaly-detection" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/format_convertor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="reality_to_enron_converter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="anomaly-detection" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reality_to_enron_converter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="time_series_final" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="anomaly-detection" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time_series_final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.format_convertor" />
+      <item index="1" class="java.lang.String" itemvalue="Python.time_series_final" />
+      <item index="2" class="java.lang.String" itemvalue="Python.reality_to_enron_converter" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.time_series_final" />
+        <item index="1" class="java.lang.String" itemvalue="Python.format_convertor" />
+        <item index="2" class="java.lang.String" itemvalue="Python.reality_to_enron_converter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f8fe44d-3879-41db-a228-d138ad2eb38e" name="Default" comment="" />
+      <created>1526590654099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526590654099</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22667369" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4591398" sideWeight="0.08460699" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23870967" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4591398" sideWeight="0.915393" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reality_to_enron_converter.py</url>
+          <line>15</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reality_to_enron_converter.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reality_to_enron_converter.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/time_series_final.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="df['date']" language="Python" />
+        <watch expression="df['date'].min()" language="Python" />
+        <watch expression="df2[['subjectId','otherPartyId']]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>df2[['subjectId','otherPartyId']]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>df['date'].min()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>df['date']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/enron_out/4_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out/5_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out/6_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out/8_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out/10_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out/11_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out/12_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out_raw/0_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out_raw/1_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out_raw/3_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out_raw/4_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out_raw/6_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out_raw/7_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out_raw/8_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out_raw/10_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out_raw/14_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out_2/5_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/vealon/ass4/local/lib/python2.7/site-packages/pandas/core/tools/datetimes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="541" column="0" lean-forward="false" selection-start-line="541" selection-start-column="0" selection-end-line="541" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/vealon/ass4/local/lib/python2.7/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="371" column="20" lean-forward="true" selection-start-line="371" selection-start-column="20" selection-end-line="371" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="1071" column="0" lean-forward="false" selection-start-line="1071" selection-start-column="0" selection-end-line="1071" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/vealon/ass4/local/lib/python2.7/site-packages/pandas/core/indexing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="1326" column="0" lean-forward="false" selection-start-line="1326" selection-start-column="0" selection-end-line="1326" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out_2/1_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/enron/1_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/enron/3_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/enron/5_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/enron/6_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/enron/7_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/enron/8_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out/0_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out/3_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out/1_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/reality_converted/1_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enron_out_2/0_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/vealon/ass4/local/lib/python2.7/site-packages/pandas/io/formats/csvs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/vealon/ass4/local/lib/python2.7/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="1652" column="8" lean-forward="false" selection-start-line="1652" selection-start-column="8" selection-end-line="1652" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/enron/0_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/reality_converted/0_enron_by_day.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/format_convertor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="65" column="29" lean-forward="false" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/g">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reality_a">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reality_ad">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/reality_raw/all_comms.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reality_to_enron_converter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/reality_raw/reality-mining-calls.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_plot.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time_series_final.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
